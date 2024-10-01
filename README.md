@@ -50,7 +50,7 @@
 ### Additional Resources:
 
 * Video Tutorial:      
-https://www.youtube.com/watch?v=nTqu6w2wc68&t=249s   
-https://www.youtube.com/watch?v=DzNmUNvnB04&t=227s   
+https://youtu.be/nTqu6w2wc68?si=R1VCBMUYTXQxhlp9   
+https://www.youtube.com/watch?v=DzNmUNvnB04&t   
 * Refer to the tmux manual for more detailed instructions:  
 https://github.com/tmux/tmux/wiki/
