@@ -49,13 +49,8 @@
 
 **Additional Resources:**
 
-* Video Tutorial:   
-https://www.youtube.com/watch?v=nTqu6w2wc68&t=249s
-https://www.youtube.com/watch?v=DzNmUNvnB04&t=227s
-* Refer to the tmux manual for more detailed instructions: https://github.com/tmux/tmux/wiki/
-
-**Example Use Case:**
-* Managing multiple SSH sessions: Use tmux to keep multiple SSH connections open and organized in different panes.   
-https://www.youtube.com/watch?v=vRhe4QYrXfM
-* Running long-running tasks: Detach from a tmux session to continue running tasks even if your terminal connection is lost
-
+* Video Tutorial:      
+https://www.youtube.com/watch?v=nTqu6w2wc68&t=249s   
+https://www.youtube.com/watch?v=DzNmUNvnB04&t=227s   
+* Refer to the tmux manual for more detailed instructions:  
+https://github.com/tmux/tmux/wiki/
