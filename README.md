@@ -46,6 +46,10 @@
   - Split the Pane Horizontally: Press 'Ctrl + b' then '%' to split the current pane horizontally.
   - Split the Pane Vertically: Press 'Ctrl + b' then ' " ' to split the current pane vertically.
   - Change the Layout: Press 'Ctrl + b' then 'space' to cycle through layouts until you find one you like.
+ 
+* Kill server/ kill everything
+  - From Outside the tmux Session: If you're not currently in a tmux session, you can run the following command in your terminal: 'tmux kill-server'
+    *This command kills all active tmux sessions and terminates tmux entirely.
 
 ### Additional Resources:
 
