@@ -25,18 +25,18 @@
 
 **Getting Started:**
 
-* Launch tmux:'tmux'
-* Navigate between panes and windows using arrow keys and Ctrl+b combinations.
-* Create new windows and panes using Ctrl+b followed by appropriate commands.
+* Launch tmux: 'tmux'
+* Navigate between panes and windows using arrow keys and 'Ctrl+b' combinations.
+* Create new windows and panes using 'Ctrl+b' followed by appropriate commands.
 * Refer to the tmux manual for more detailed instructions: https://github.com/tmux/tmux/wiki/
 
 **Additional Resources:**
 
-* Online Tutorials:
-* Video Tutorial: 
+* Video Tutorial:   
 https://www.youtube.com/watch?v=nTqu6w2wc68&t=249s
 https://www.youtube.com/watch?v=DzNmUNvnB04&t=227s
-* Command Cheat Sheet: https://tmuxcheatsheet.com/
+* Command Cheat Sheet:   
+https://tmuxcheatsheet.com/
 
 **Example Use Case:**
 * Managing multiple SSH sessions: Use tmux to keep multiple SSH connections open and organized in different panes.
