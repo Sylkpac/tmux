@@ -20,7 +20,7 @@
 ### Key Features:
 
 * <b>Detach and reattach sessions</b>   
-  - Detach from a session: 'Ctrl+b d'     
+  - Detach from a session: 'Ctrl+b' then 'd'     
   - List sessions: 'tmux ls'     
   - Reattach to a session: 'tmux attach-session -t 0' (assuming session 0 is listed).
 
