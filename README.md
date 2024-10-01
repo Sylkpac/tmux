@@ -15,7 +15,7 @@
 
 * **macOS:** Use Homebrew (brew install tmux)
   
-* **Windows:** Use a terminal emulator like Git Bash or Windows Terminal 
+* **Windows:** Use Windows Linux Subsytem (WSL) 
 
 ### Key Features:
 
@@ -41,24 +41,11 @@
   - To enhance security, set a lock command by executing: ' tmux set-option -g lock-command "gnome-screensaver-command -l" '
   - Press 'Ctrl + b' then 'l' to lock the terminal. You will need to enter your password again to unlock.
 
-* Customizable layouts and shortcuts
+* Change layouts and shortcuts
   
   - Split the Pane Horizontally: Press 'Ctrl + b' then '%' to split the current pane horizontally.
   - Split the Pane Vertically: Press 'Ctrl + b' then ' " ' to split the current pane vertically.
   - Change the Layout: Press 'Ctrl + b' then 'space' to cycle through layouts until you find one you like.
-  - Edit your .tmux.conf file to include:   
-new-session -s mysession   
-split-window -h   
-split-window -v   
-select-layout tiled   
-  - 
-  - 
-* Share sessions with colleagues
-
-
-
-
-
 
 **Additional Resources:**
 
@@ -68,7 +55,7 @@ https://www.youtube.com/watch?v=DzNmUNvnB04&t=227s
 * Refer to the tmux manual for more detailed instructions: https://github.com/tmux/tmux/wiki/
 
 **Example Use Case:**
-* Managing multiple SSH sessions: Use tmux to keep multiple SSH connections open and organized in different panes.
-VIDEO
+* Managing multiple SSH sessions: Use tmux to keep multiple SSH connections open and organized in different panes.   
+https://www.youtube.com/watch?v=vRhe4QYrXfM
 * Running long-running tasks: Detach from a tmux session to continue running tasks even if your terminal connection is lost
-VIDEO
+
