@@ -2,7 +2,7 @@
 
 **Description:** Tmux is a multi-pane terminal that allows you to manage multiple terminal sessions within a single window. It's a valuable tool for cybersecurity professionals due to its features such as detaching and reattaching sessions, creating multiple windows and panes, enhanced security, increased productivity, and collaboration capabilities.
 
-**Installation:**
+### Installation:
 
 * **Linux:** Use your package manager (e.g., sudo apt install tmux)
 
@@ -10,7 +10,7 @@
   
 * **Windows:** Use Windows Linux Subsytem (WSL) 
 
-**Getting Started:**
+### Getting Started:
 
 * Launch tmux: 'tmux'
 * Navigate between panes and windows using arrow keys and 'Ctrl+b' combinations.
@@ -47,7 +47,7 @@
   - Split the Pane Vertically: Press 'Ctrl + b' then ' " ' to split the current pane vertically.
   - Change the Layout: Press 'Ctrl + b' then 'space' to cycle through layouts until you find one you like.
 
-**Additional Resources:**
+### Additional Resources:
 
 * Video Tutorial:      
 https://www.youtube.com/watch?v=nTqu6w2wc68&t=249s   
